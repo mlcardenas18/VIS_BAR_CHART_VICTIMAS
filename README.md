@@ -7,6 +7,6 @@ Es utiliza un dataset de la información pública en el portal colombiano de dat
 Para mirar la visualización dar click en link de Observable, no tiene ningún prerrequisito.
 
 Autores
-Martha Lucia Cárdenas Soto   https://beta.observablehq.com/@mlcardenas18/tarea-2 
+Martha Lucia Cárdenas Soto   https://github.com/mlcardenas18/VIS_BAR_CHART_VICTIMAS https://beta.observablehq.com/@mlcardenas18/tarea-2 
 
 
