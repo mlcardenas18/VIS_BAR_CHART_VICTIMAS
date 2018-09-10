@@ -1,5 +1,6 @@
 # VIS_BAR_CHART_VICTIMAS
 Visualización de los número de víctimas registradas ante "la Unidad para la Atención y Reparación Integral a las Víctimas"
+
 Objetivo
 
 Utilizar un dataset de la información pública en el portal colombiano de datos abiertos https://www.datos.gov.co y realizar una visualización que genere Insight. Para el ejercicio se utilizó los datos publicados por la "la Unidad para la Atención y Reparación Integral a las Víctimas" en el periodo 2018-2, con el fin de observar el número de víctimas reconocidas y el porcentaje de atención a las mismas por Departamento.
